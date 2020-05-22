@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/portfolio/static/js/main.8ae7040e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8ae7040e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
+    "static/js/2.311f934e.chunk.js": "/portfolio/static/js/2.311f934e.chunk.js",
+    "static/js/2.311f934e.chunk.js.map": "/portfolio/static/js/2.311f934e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6954e05e24e83a6a33dec96b94e1bd87.js": "/portfolio/precache-manifest.6954e05e24e83a6a33dec96b94e1bd87.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/portfolio/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.311f934e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.311f934e.chunk.js.LICENSE.txt",
+    "static/media/always.png": "/portfolio/static/media/always.e1a0677f.png",
+    "static/media/background.png": "/portfolio/static/media/background.16f9fc30.png",
+    "static/media/backgroundBlue.png": "/portfolio/static/media/backgroundBlue.a0971083.png",
+    "static/media/backgroundGreen.png": "/portfolio/static/media/backgroundGreen.84b7fa72.png",
+    "static/media/backgroundOrange.png": "/portfolio/static/media/backgroundOrange.c373d4d9.png",
+    "static/media/backgroundViolet.png": "/portfolio/static/media/backgroundViolet.65402328.png",
+    "static/media/backgroundYellow.png": "/portfolio/static/media/backgroundYellow.93dc2068.png",
+    "static/media/crest.png": "/portfolio/static/media/crest.9b12bd99.png",
+    "static/media/gillette.png": "/portfolio/static/media/gillette.89652dd7.png",
+    "static/media/herbalEssences.png": "/portfolio/static/media/herbalEssences.abc36fd1.png",
+    "static/media/mail.png": "/portfolio/static/media/mail.10a75893.png",
+    "static/media/olay.png": "/portfolio/static/media/olay.36f4fe54.png",
+    "static/media/pinecroft.png": "/portfolio/static/media/pinecroft.ae63e611.png",
+    "static/media/portfolioLogoWhite.png": "/portfolio/static/media/portfolioLogoWhite.5f67b836.png",
+    "static/media/rentingBk.png": "/portfolio/static/media/rentingBk.09cf675e.png",
+    "static/media/secret.png": "/portfolio/static/media/secret.d399e7a5.png",
+    "static/media/silhouetteEric.png": "/portfolio/static/media/silhouetteEric.b9f93b34.png",
+    "static/media/subway.png": "/portfolio/static/media/subway.48325f5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f2abbf.js",
+    "static/js/2.311f934e.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.8ae7040e.chunk.js"
+  ]
+}
