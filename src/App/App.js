@@ -7,7 +7,6 @@ import {Development} from '../../src/components/Development/Development.js'
 import {Resume} from '../../src/components/Resume/Resume.js'
 import {Work} from '../../src/components/Work/Work.js'
 import {Who} from '../../src/components/Who/Who.js'
-import styles from './App.css.js';
  
 class App extends React.Component {
   render() {
